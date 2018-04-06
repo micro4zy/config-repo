@@ -2,3 +2,6 @@ env:
   dev
 bus:
   false
+girl:
+  name: lubenwei
+  age: 18
